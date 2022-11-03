@@ -6,7 +6,7 @@ i would never give up . i would try and try until i finally get a cure to curb t
 
 ## 2Q) what is your plan for the next 6 months ?
 
-ANS) i hope to extract all the knowledge i could from the association and i would want to improve my coding skills in the next 6 months and to learn the coding programs necessary so that i could create projects on my own withought any external help
+ANS) i hope to extract all the knowledge i could from the association and i would want to improve my coding skills in the next 6 months and to learn the coding programs necessary so that i could create projects on my own withought any external help.
 
 ## 3Q) how would you contribute back to the club
 
