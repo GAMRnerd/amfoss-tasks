@@ -3,8 +3,7 @@
 ## 1Q) Why must we choose you ?
 
 ANS) Well thats a tough question not gonna lie but i pass through tough obstacles with all my level best
-i would never give up . i would try and try until i finally get a cure to curb the virus and at the end i always keep a happy smiling face :D.??
-
+i would never give up . i would try and try until i finally get a cure to curb the virus and at the end i always keep a happy smiling face :D.
 ## 2Q) What is your plan for the next 6 months ?
 
 ANS) I hope to extract all the knowledge i could from the association and i would want to improve my coding skills in the next 6 months and to learn the coding programs necessary so that i could create projects on my own withought any external help.
