@@ -1,4 +1,4 @@
-# INTROSPECTIONy
+# INTROSPECTION
 
 ## 1Q) Why must we choose you ?
 
