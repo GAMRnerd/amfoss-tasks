@@ -10,10 +10,11 @@ ANS) I hope to extract all the knowledge i could from the association and i woul
 
 ## 3Q) How would you contribute back to the club
 
-ANS) i would share my intellegence with the other club members and will help them solve   their        problems and i would bring a positive vibe to other club members.
+ANS) i would share my intellegence with the other club members and will help them solve   their   problems and i would bring a positive vibe to other club members
 
 ## 4Q) Do you have any feedback for the selection process
 
-ANS) Honestly the best one ive seen because the selectors would know which people are lacking 
+ANS) Honestly the best one ive seen because the selectors would know which people are lacking and it would help me to get skills required
+
  
  
