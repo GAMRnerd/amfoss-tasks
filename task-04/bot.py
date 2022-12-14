@@ -2,8 +2,8 @@ import telebot
 import requests
 import csv, io
 
-api_key = 'ca3f87a7'
-bot_id = '5889581490:AAG0rhL5xmTFceAyIsdEgTUKyELU0R44j84'
+api_key = '**'
+bot_id = '**'
 
 bot = telebot.TeleBot(bot_id)
 
