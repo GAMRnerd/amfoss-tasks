@@ -2,7 +2,7 @@
 
 ## 1Q) Why must we choose you ?
 
-ANS) Well thats a tough question not gonna lie but i pass through tough obstacles with all my level best
+ANS) well about me  i pass through tough obstacles with all my level best
 i would never give up . i would try and try until i finally get a cure to curb the virus and at the end i always keep a happy smiling face :D.
 ## 2Q) What is your plan for the next 6 months ?
 
